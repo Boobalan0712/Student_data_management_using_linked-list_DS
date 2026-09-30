@@ -1,4 +1,4 @@
-#include "header.h" 
+#include "student.h" 
 void stud_save(SLL *ptr)
 {
         FILE *fp=fopen("student.dat","w");
