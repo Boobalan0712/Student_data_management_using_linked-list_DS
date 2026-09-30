@@ -1,4 +1,4 @@
-#include "header.h"
+#include "student.h"
 void stud_add(SLL **ptr)   // Adding at last
 {
         int c;
